@@ -1,0 +1,121 @@
+date,Fan ID,Airflow (m³/s),Fan Speed (RPM),Vibration (mm/s),Motor Temp (°C),Power Consumption (kW),Line Voltage (V),Line Current (A),Power Rating (kW),Operational Status,Notes
+01/01/2024 00:00:00,Fan_01,25,1500,2.1,65,22,400,32,22,OK,Normal operation
+01/01/2024 01:00:00,Fan_02,26.2,1520,2,63,23,400,34,23,OK,Normal operation
+01/01/2024 02:00:00,Fan_01,24.8,1495,2.3,66,21,400,30,21,OK,Slight noise detected
+01/01/2024 03:00:00,Fan_02,26.1,1515,2.1,64,22,400,33,22,OK,Normal operation
+01/01/2024 04:00:00,Fan_01,25.3,1502,2.5,67,23,400,35,23,OK,Increased vibration
+01/01/2024 05:00:00,Fan_02,25.9,1510,2.2,65,22,400,32,22,OK,Normal operation
+01/01/2024 06:00:00,Fan_01,24.9,1498,2.7,69,24,400,36,24,Maintenance Needed,Bearing inspection
+01/01/2024 07:00:00,Fan_02,26,1512,2.1,63,22,400,33,22,OK,Normal operation
+01/01/2024 08:00:00,Fan_01,25.1,1497,2.8,68,22,400,31,22,OK,Bearing replaced
+01/01/2024 09:00:00,Fan_02,26.3,1515,2,64,23,400,34,23,OK,Normal operation
+01/01/2024 10:00:00,Fan_01,25.4,1503,2.2,66,22,400,32,22,OK,Normal operation
+01/01/2024 11:00:00,Fan_02,25.7,1518,2.3,65,22,400,33,22,OK,Normal operation
+01/01/2024 12:00:00,Fan_01,25.6,1501,2.4,67,23,400,34,23,OK,Normal operation
+01/01/2024 13:00:00,Fan_02,26.1,1522,2.1,64,22,400,32,22,OK,Normal operation
+01/01/2024 14:00:00,Fan_01,24.7,1490,2.9,70,25,400,37,25,Warning,High temperature detected
+01/01/2024 15:00:00,Fan_02,26.2,1525,2,63,23,400,35,23,OK,Normal operation
+01/01/2024 16:00:00,Fan_01,24.5,1485,3,71,25,400,38,25,Maintenance Needed,Immediate inspection required
+01/01/2024 17:00:00,Fan_02,26,1510,2.1,65,22,400,32,22,OK,Normal operation
+01/01/2024 18:00:00,Fan_01,25.2,1500,2.2,66,22,400,33,22,OK,Normal operation
+01/01/2024 19:00:00,Fan_02,25.8,1515,2.3,64,22,400,34,22,OK,Normal operation
+01/01/2024 20:00:00,Fan_01,25,1498,2.1,65,22,400,32,22,OK,Normal operation
+01/01/2024 21:00:00,Fan_02,26.1,1520,2,63,23,400,34,23,OK,Normal operation
+01/01/2024 22:00:00,Fan_01,25.5,1505,2.2,67,23,400,35,23,OK,Normal operation
+01/01/2024 23:00:00,Fan_02,25.9,1512,2.1,64,22,400,33,22,OK,Normal operation
+02/01/2024 00:00:00,Fan_01,25.4,1504,2,66,22,400,32,22,OK,Normal operation
+02/01/2024 01:00:00,Fan_02,26.3,1524,2.1,65,23,400,34,23,OK,Normal operation
+02/01/2024 02:00:00,Fan_01,24.7,1496,2.3,67,21,400,30,21,OK,Slight noise detected
+02/01/2024 03:00:00,Fan_02,26.1,1513,2.2,64,22,400,33,22,OK,Normal operation
+02/01/2024 04:00:00,Fan_01,25.2,1501,2.5,68,23,400,35,23,OK,Increased vibration
+02/01/2024 05:00:00,Fan_02,25.8,1511,2.2,65,22,400,32,22,OK,Normal operation
+02/01/2024 06:00:00,Fan_01,24.8,1497,2.7,70,24,400,36,24,Maintenance Needed,Bearing inspection
+02/01/2024 07:00:00,Fan_02,26,1514,2.1,63,22,400,33,22,OK,Normal operation
+02/01/2024 08:00:00,Fan_01,25,1496,2.8,69,22,400,31,22,OK,Bearing replaced
+02/01/2024 09:00:00,Fan_02,26.3,1518,2,64,23,400,34,23,OK,Normal operation
+02/01/2024 10:00:00,Fan_01,25.5,1502,2.2,67,22,400,32,22,OK,Normal operation
+02/01/2024 11:00:00,Fan_02,25.7,1517,2.3,66,22,400,33,22,OK,Normal operation
+02/01/2024 12:00:00,Fan_01,25.3,1500,2.4,68,23,400,34,23,OK,Normal operation
+02/01/2024 13:00:00,Fan_02,26.2,1521,2.1,65,22,400,32,22,OK,Normal operation
+02/01/2024 14:00:00,Fan_01,24.9,1489,2.9,71,25,400,37,25,Warning,High temperature detected
+02/01/2024 15:00:00,Fan_02,26.4,1526,2,64,23,400,35,23,OK,Normal operation
+02/01/2024 16:00:00,Fan_01,24.6,1484,3,72,25,400,38,25,Maintenance Needed,Immediate inspection required
+02/01/2024 17:00:00,Fan_02,26.1,1509,2.1,66,22,400,32,22,OK,Normal operation
+02/01/2024 18:00:00,Fan_01,25.1,1500,2.2,67,22,400,33,22,OK,Normal operation
+02/01/2024 19:00:00,Fan_02,25.9,1514,2.3,65,22,400,34,22,OK,Normal operation
+02/01/2024 20:00:00,Fan_01,24.9,1497,2.1,66,22,400,32,22,OK,Normal operation
+02/01/2024 21:00:00,Fan_02,26.2,1519,2,64,23,400,34,23,OK,Normal operation
+02/01/2024 22:00:00,Fan_01,25.4,1504,2.2,68,23,400,35,23,OK,Normal operation
+02/01/2024 23:00:00,Fan_02,25.8,1511,2.1,65,22,400,33,22,OK,Normal operation
+03/01/2024 00:00:00,Fan_01,25.3,1503,2.2,65,22,400,32,22,OK,Normal operation
+03/01/2024 01:00:00,Fan_02,26.1,1516,2.1,64,23,400,34,23,OK,Normal operation
+03/01/2024 02:00:00,Fan_01,24.8,1495,2.3,67,21,400,30,21,OK,Slight noise detected
+03/01/2024 03:00:00,Fan_02,26.3,1513,2.2,65,22,400,33,22,OK,Normal operation
+03/01/2024 04:00:00,Fan_01,25.4,1502,2.5,68,23,400,35,23,OK,Increased vibration
+03/01/2024 05:00:00,Fan_02,25.9,1512,2.2,66,22,400,32,22,OK,Normal operation
+03/01/2024 06:00:00,Fan_01,24.9,1498,2.7,70,24,400,36,24,Maintenance Needed,Bearing inspection
+03/01/2024 07:00:00,Fan_02,26,1514,2.1,64,22,400,33,22,OK,Normal operation
+03/01/2024 08:00:00,Fan_01,25.1,1499,2.8,69,22,400,31,22,OK,Bearing replaced
+03/01/2024 09:00:00,Fan_02,26.2,1517,2,64,23,400,34,23,OK,Normal operation
+03/01/2024 10:00:00,Fan_01,25.5,1501,2.2,67,22,400,32,22,OK,Normal operation
+03/01/2024 11:00:00,Fan_02,25.8,1516,2.3,66,22,400,33,22,OK,Normal operation
+03/01/2024 12:00:00,Fan_01,25.7,1505,2.4,68,23,400,34,23,OK,Normal operation
+03/01/2024 13:00:00,Fan_02,26.1,1520,2.1,65,22,400,32,22,OK,Normal operation
+03/01/2024 14:00:00,Fan_01,24.6,1489,2.9,71,25,400,37,25,Warning,High temperature detected
+03/01/2024 15:00:00,Fan_02,26.3,1523,2,64,23,400,35,23,OK,Normal operation
+03/01/2024 16:00:00,Fan_01,24.5,1484,3,72,25,400,38,25,Maintenance Needed,Immediate inspection needed
+03/01/2024 17:00:00,Fan_02,25.9,1510,2.1,66,22,400,32,22,OK,Normal operation
+03/01/2024 18:00:00,Fan_01,25.2,1500,2.2,67,22,400,33,22,OK,Normal operation
+03/01/2024 19:00:00,Fan_02,26,1515,2.3,65,22,400,34,22,OK,Normal operation
+03/01/2024 20:00:00,Fan_01,25,1499,2.1,66,22,400,32,22,OK,Normal operation
+03/01/2024 21:00:00,Fan_02,26.2,1522,2,64,23,400,34,23,OK,Normal operation
+03/01/2024 22:00:00,Fan_01,25.4,1503,2.2,68,23,400,35,23,OK,Normal operation
+03/01/2024 23:00:00,Fan_02,25.7,1512,2.1,65,22,400,33,22,OK,Normal operation
+04/01/2024 00:00:00,Fan_01,25.6,1504,2.3,65,22,400,32,22,OK,Normal operation
+04/01/2024 01:00:00,Fan_02,26.4,1522,2,64,23,400,34,23,OK,Normal operation
+04/01/2024 02:00:00,Fan_01,24.9,1495,2.4,67,21,400,30,21,OK,Slight noise detected
+04/01/2024 03:00:00,Fan_02,26.5,1517,2.2,65,22,400,33,22,OK,Normal operation
+04/01/2024 04:00:00,Fan_01,25.3,1506,2.5,68,23,400,35,23,OK,Increased vibration
+04/01/2024 05:00:00,Fan_02,25.8,1513,2.3,66,22,400,32,22,OK,Normal operation
+04/01/2024 06:00:00,Fan_01,24.7,1497,2.6,69,24,400,36,24,Maintenance Needed,Bearing inspection
+04/01/2024 07:00:00,Fan_02,26.2,1515,2.2,63,22,400,33,22,OK,Normal operation
+04/01/2024 08:00:00,Fan_01,25.2,1501,2.8,68,22,400,31,22,OK,Bearing replaced
+04/01/2024 09:00:00,Fan_02,26,1516,2.1,64,23,400,34,23,OK,Normal operation
+04/01/2024 10:00:00,Fan_01,25.5,1503,2.3,67,22,400,32,22,OK,Normal operation
+04/01/2024 11:00:00,Fan_02,25.9,1518,2.4,66,22,400,33,22,OK,Normal operation
+04/01/2024 12:00:00,Fan_01,25.6,1507,2.5,68,23,400,34,23,OK,Normal operation
+04/01/2024 13:00:00,Fan_02,26.3,1519,2.1,65,22,400,32,22,OK,Normal operation
+04/01/2024 14:00:00,Fan_01,24.8,1492,2.9,70,25,400,37,25,Warning,High temperature detected
+04/01/2024 15:00:00,Fan_02,26.4,1524,2,64,23,400,35,23,OK,Normal operation
+04/01/2024 16:00:00,Fan_01,24.6,1486,3.1,72,25,400,38,25,Maintenance Needed,Immediate inspection needed
+04/01/2024 17:00:00,Fan_02,25.7,1511,2.1,66,22,400,32,22,OK,Normal operation
+04/01/2024 18:00:00,Fan_01,25.1,1502,2.3,67,22,400,33,22,OK,Normal operation
+04/01/2024 19:00:00,Fan_02,25.9,1514,2.4,65,22,400,34,22,OK,Normal operation
+04/01/2024 20:00:00,Fan_01,25,1497,2.2,66,22,400,32,22,OK,Normal operation
+04/01/2024 21:00:00,Fan_02,26.1,1521,2.1,64,23,400,34,23,OK,Normal operation
+04/01/2024 22:00:00,Fan_01,25.3,1504,2.4,68,23,400,35,23,OK,Normal operation
+04/01/2024 23:00:00,Fan_02,25.8,1513,2.2,65,22,400,33,22,OK,Normal operation
+05/01/2024 00:00:00,Fan_01,25.5,1505,2.1,66,22,400,32,22,OK,Normal operation
+05/01/2024 01:00:00,Fan_02,26.2,1520,2.2,65,23,400,34,23,OK,Normal operation
+05/01/2024 02:00:00,Fan_01,24.9,1498,2.3,67,21,400,30,21,OK,Slight noise detected
+05/01/2024 03:00:00,Fan_02,26.3,1516,2.4,64,22,400,33,22,OK,Normal operation
+05/01/2024 04:00:00,Fan_01,25.4,1506,2.5,68,23,400,35,23,OK,Increased vibration
+05/01/2024 05:00:00,Fan_02,25.9,1512,2.3,66,22,400,32,22,OK,Normal operation
+05/01/2024 06:00:00,Fan_01,24.7,1496,2.6,69,24,400,36,24,Maintenance Needed,Bearing inspection
+05/01/2024 07:00:00,Fan_02,26.1,1515,2.2,63,22,400,33,22,OK,Normal operation
+05/01/2024 08:00:00,Fan_01,25.1,1499,2.8,68,22,400,31,22,OK,Bearing replaced
+05/01/2024 09:00:00,Fan_02,26,1518,2.1,64,23,400,34,23,OK,Normal operation
+05/01/2024 10:00:00,Fan_01,25.4,1504,2.3,67,22,400,32,22,OK,Normal operation
+05/01/2024 11:00:00,Fan_02,26.2,1516,2.4,66,22,400,33,22,OK,Normal operation
+05/01/2024 12:00:00,Fan_01,25.6,1508,2.5,68,23,400,34,23,OK,Normal operation
+05/01/2024 13:00:00,Fan_02,25.9,1517,2.1,65,22,400,32,22,OK,Normal operation
+05/01/2024 14:00:00,Fan_01,24.8,1493,2.9,70,25,400,37,25,Warning,High temperature detected
+05/01/2024 15:00:00,Fan_02,26.3,1522,2,64,23,400,35,23,OK,Normal operation
+05/01/2024 16:00:00,Fan_01,24.6,1488,3.1,72,25,400,38,25,Maintenance Needed,Immediate inspection needed
+05/01/2024 17:00:00,Fan_02,25.8,1510,2.1,66,22,400,32,22,OK,Normal operation
+05/01/2024 18:00:00,Fan_01,25.2,1503,2.3,67,22,400,33,22,OK,Normal operation
+05/01/2024 19:00:00,Fan_02,26,1514,2.4,65,22,400,34,22,OK,Normal operation
+05/01/2024 20:00:00,Fan_01,25,1497,2.2,66,22,400,32,22,OK,Normal operation
+05/01/2024 21:00:00,Fan_02,26.2,1521,2.1,64,23,400,34,23,OK,Normal operation
+05/01/2024 22:00:00,Fan_01,25.4,1506,2.4,68,23,400,35,23,OK,Normal operation
+05/01/2024 23:00:00,Fan_02,25.9,1512,2.2,65,22,400,33,22,OK,Normal operation
